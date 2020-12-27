@@ -13,22 +13,12 @@
  }
 
  .cabecalho-principal-titulo a {
-    font-size: 30px;
-    color: rgb(0, 0, 0);
+    font-size: 40px;
+    color: #720606;
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
  }
-
- .cabecalho-principal-titulo a:hover{
-     color: #720606;
-     font-size: 40px;
- }
-
- .cabecalho-principal-titulo a:active {
-    color: rgb(250, 243, 243);
-}
-
 
  .cabecalho-principal-nav{
     margin: 7px;
@@ -36,15 +26,13 @@
  }
 
  .cabecalho-principal-nav a {
-    font-size: 14px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
     margin-left: 2px;
     padding: 5px;
-    border: 3px solid #000000;
-    border-radius: 7px ;
  }
 
  .cabecalho-principal-nav a:hover {
